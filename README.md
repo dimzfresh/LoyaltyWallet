@@ -1,2 +1,3 @@
-# LoyalityWallet
-Cads wallet with loyality offers 
+# LoyaltyWallet
+Cads wallet with loyalty offers 
+
